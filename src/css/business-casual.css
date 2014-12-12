@@ -190,3 +190,8 @@ footer p {
         clear: both;
     }
 }
+
+.carousel-inner img{
+    max-width:350px;
+}
+
